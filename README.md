@@ -1,2 +1,2 @@
-# CSS_Dise-o_Web_Responsive
+# CSS_Disenio_Web_Responsive
 CSS y Diseño Web Responsive
